@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FiveStone">
+</Property><Property Name="解决方案文件" Value="E:\FiveStone\FiveStone.sln">
+</Property><Property Name="用户选项文件" Value="E:\FiveStone\FiveStone.suo">
+</Property><Property Name="Date" Value="2016年3月10日">
+</Property><Property Name="Time" Value="16:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FiveStone.sln" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FiveStone.suo" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone.suo">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\FiveStone.csproj" Description="项目文件已成功备份为 E:\FiveStone\Backup\FiveStone\FiveStone.csproj">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Boards.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Boards.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Form1.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Form1.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Form1.Designer.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\PC.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\PC.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Program.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Program.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Rules.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Rules.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Stones.cs" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Stones.cs">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\bg.png" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\bg.png">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\bbg.png" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\bbg.png">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Form1.resx" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Form1.resx">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\board.png" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\board.png">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\chessboard.gif" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\chessboard.gif">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\black.png" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\black.png">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\white.png" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\white.png">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\kh.png" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\kh.png">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\Properties\Resources.resx" Description="文件已成功备份为 E:\FiveStone\Backup\FiveStone\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="FiveStone" Source="FiveStone\FiveStone.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\FiveStone.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FiveStone" Source="FiveStone\FiveStone.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyStack" Source="MyStack\MyStack.csproj" Description="项目文件已成功备份为 E:\FiveStone\Backup\MyStack\MyStack.csproj">
+</Event><Event ErrorLevel="0" Project="MyStack" Source="MyStack\MyStack.cs" Description="文件已成功备份为 E:\FiveStone\Backup\MyStack\MyStack.cs">
+</Event><Event ErrorLevel="0" Project="MyStack" Source="MyStack\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\FiveStone\Backup\MyStack\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="MyStack" Source="MyStack\MyStack.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="MyStack" Source="MyStack\MyStack.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="MyStack" Source="MyStack\MyStack.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FiveStone.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="FiveStone.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FiveStone" Source="FiveStone\FiveStone.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="MyStack" Source="MyStack\MyStack.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

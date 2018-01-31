@@ -1,0 +1,15 @@
+D:\我的程序\FiveStone\FiveStone\MyStack\obj\Debug\ResolveAssemblyReference.cache
+D:\我的程序\FiveStone\FiveStone\MyStack\bin\Debug\FiveStone.MyStack.dll
+D:\我的程序\FiveStone\FiveStone\MyStack\bin\Debug\FiveStone.MyStack.pdb
+D:\我的程序\FiveStone\FiveStone\MyStack\obj\Debug\FiveStone.MyStack.dll
+D:\我的程序\FiveStone\FiveStone\MyStack\obj\Debug\FiveStone.MyStack.pdb
+E:\FiveStone\MyStack\bin\Debug\FiveStone.MyStack.dll
+E:\FiveStone\MyStack\bin\Debug\FiveStone.MyStack.pdb
+E:\FiveStone\MyStack\obj\Debug\ResolveAssemblyReference.cache
+E:\FiveStone\MyStack\obj\Debug\FiveStone.MyStack.dll
+E:\FiveStone\MyStack\obj\Debug\FiveStone.MyStack.pdb
+F:\FiveStone\MyStack\bin\Debug\FiveStone.MyStack.dll
+F:\FiveStone\MyStack\bin\Debug\FiveStone.MyStack.pdb
+F:\FiveStone\MyStack\obj\Debug\MyStack.csprojResolveAssemblyReference.cache
+F:\FiveStone\MyStack\obj\Debug\FiveStone.MyStack.dll
+F:\FiveStone\MyStack\obj\Debug\FiveStone.MyStack.pdb
